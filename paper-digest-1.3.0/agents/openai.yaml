@@ -1,0 +1,5 @@
+interface:
+  display_name: "Paper Digest"
+  short_description: "Read a paper into your project + learn academic English writing with spaced practice"
+policy:
+  allow_implicit_invocation: false
